@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\services\\logging\\iloggerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\services\\logging\\iloggerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\services\\logging\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\services\\logging\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\services\\logging\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\services\\logging\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\models\\savecustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\models\\savecustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\extensions\\sessionextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\extensions\\sessionextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\views\\customer\\savecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\views\\customer\\savecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\controllers\\sessiondemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\controllers\\sessiondemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\aspnetcoreintro\\aspnetcoreintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870D1DAE-4F53-4C14-B5B4-0F7DDFA513BA}|ASPNetCoreIntro\\ASPNetCoreIntro.csproj|solutionrelative:aspnetcoreintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPNetCoreIntro\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:09:31.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPNetCoreIntro\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T07:54:58.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASPNetCoreIntro\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T07:12:41.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ASPNetCoreIntro\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T07:12:22.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SessionDemoController.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Controllers\\SessionDemoController.cs",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Controllers\\SessionDemoController.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Controllers\\SessionDemoController.cs",
+              "RelativeToolTip": "ASPNetCoreIntro\\Controllers\\SessionDemoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T05:18:45.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Extensions\\SessionExtensionMethods.cs",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Extensions\\SessionExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Extensions\\SessionExtensionMethods.cs",
+              "RelativeToolTip": "ASPNetCoreIntro\\Extensions\\SessionExtensionMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T05:42:24.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveCustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Models\\SaveCustomerViewModel.cs",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Models\\SaveCustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Models\\SaveCustomerViewModel.cs",
+              "RelativeToolTip": "ASPNetCoreIntro\\Models\\SaveCustomerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:55:34.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Services\\Logging\\DatabaseLogger.cs",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Services\\Logging\\DatabaseLogger.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Services\\Logging\\DatabaseLogger.cs",
+              "RelativeToolTip": "ASPNetCoreIntro\\Services\\Logging\\DatabaseLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:46:53.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Services\\Logging\\FileLogger.cs",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Services\\Logging\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Services\\Logging\\FileLogger.cs",
+              "RelativeToolTip": "ASPNetCoreIntro\\Services\\Logging\\FileLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:47:44.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILoggerr.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Services\\Logging\\ILoggerr.cs",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Services\\Logging\\ILoggerr.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Services\\Logging\\ILoggerr.cs",
+              "RelativeToolTip": "ASPNetCoreIntro\\Services\\Logging\\ILoggerr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:46:23.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ASPNetCoreIntro\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T09:19:11.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Views\\Customer\\SaveCustomer.cshtml",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Views\\Customer\\SaveCustomer.cshtml",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Views\\Customer\\SaveCustomer.cshtml",
+              "RelativeToolTip": "ASPNetCoreIntro\\Views\\Customer\\SaveCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T07:55:08.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ASPNetCoreIntro\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:11:03.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Program.cs",
+              "RelativeDocumentMoniker": "ASPNetCoreIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\ASPNetCoreIntro\\ASPNetCoreIntro\\Program.cs",
+              "RelativeToolTip": "ASPNetCoreIntro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:52:34.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
